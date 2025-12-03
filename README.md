@@ -1,8 +1,9 @@
 <div align="center">
+  <img src="https://github-readme-stats-iota-tawny-98.vercel.app/api?username=SonSeYoung02&show_icons=true&theme=dracula&hide_border=true" height="180px">
+  
+  <img src="https://github-readme-stats-iota-tawny-98.vercel.app/api/top-langs/?username=SonSeYoung02&layout=compact&theme=dracula&hide_border=true" height="180px">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonSeYoung02&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonSeYoung02&layout=compact&theme=dracula&hide_border=true)
+  <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SonSeYoung02&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-stats-iota-tawny-98.vercel.app/?user=SonSeYoung02&theme=dracula&hide_border=true" height="180px">
 </div>
