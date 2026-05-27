@@ -20,6 +20,9 @@
 <div>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26">
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/REACT_NATIVE-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E">
 </div>
 
 ### Embedded & Tools
