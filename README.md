@@ -38,12 +38,15 @@
 
 <br>
 
-# Projects
-[케어해줘 - 성결대학교 컴퓨터공학과 졸업작품](https://github.com/SonSeYoung02/watchover-project.git)
+# 💡 Projects
+
+| 프로젝트 | 역할 | 설명 | 기간 |
+| :---: | :---: | :---: | :---: |
+| [케어해줘](https://github.com/SonSeYoung02/watchover-project.git) | 프로젝트 팀장 |  AI기반 감정 통계 서비스 | 2026.03 ~ 2026.05 |
 
 <br>
 
-# GitHub Stats
+# ✨ GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-iota-tawny-98.vercel.app/api?username=SonSeYoung02&show_icons=true&theme=dracula&hide_border=true" height="180px">
