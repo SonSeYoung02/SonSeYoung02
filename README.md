@@ -1,4 +1,19 @@
-# 🛠️ Tech Stack
+# 안녕하세요 😊
+## 소개
+
+<div>
+  <a href="https://velog.io/@ssy02/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+  </a>
+  <a href="mailto:ssy020213@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+안녕하세요!<br>
+백엔드 개발자를 지망하고 있습니다.<br>
+
+## 🛠️ Tech Stack
 
 ### Backend
 
@@ -40,9 +55,24 @@
 
 # 💡 Projects
 
-| 프로젝트 | 역할 | 설명 | 기간 |
-| :---: | :---: | :---: | :---: |
-| [케어해줘](https://github.com/SonSeYoung02/watchover-project.git) | 프로젝트 팀장 |  AI기반 감정 통계 서비스 | 2026.03 ~ 2026.05 |
+<div align="center">
+
+<table>
+  <tr>
+    <th>프로젝트</th>
+    <th>역할</th>
+    <th>설명</th>
+    <th>기간</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SonSeYoung02/watchover-project.git">케어해줘</a></td>
+    <td>프로젝트 팀장</td>
+    <td>AI기반 감정 통계 서비스</td>
+    <td>2026.03 ~ 2026.05</td>
+  </tr>
+</table>
+
+</div>
 
 <br>
 
