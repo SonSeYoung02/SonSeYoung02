@@ -1,5 +1,5 @@
 # 안녕하세요 😊
-## 소개
+## 📌 소개
 
 <div>
   <a href="https://velog.io/@ssy02/posts">
