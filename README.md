@@ -53,7 +53,7 @@
 
 <br>
 
-# 💡 Projects
+# 🚀 Projects
 
 <div align="center">
 
@@ -69,6 +69,18 @@
     <td>프로젝트 팀장</td>
     <td>AI기반 감정 통계 서비스</td>
     <td>2026.03 ~ 2026.05</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SWYP-dev/SWYP_BE.git">취합</a></td>
+    <td>백엔드</td>
+    <td>취업 공고 관리 서비스</td>
+    <td>2026.07 ~ 현재</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/GYEOTE-project/gyeote-backend.git">곁에</a></td>
+    <td>백엔드</td>
+    <td>응급 상황 시 알람 서비스</td>
+    <td>2026.07 ~ 현재</td>
   </tr>
 </table>
 
