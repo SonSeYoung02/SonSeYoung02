@@ -1,88 +1,88 @@
-## 📌 Introduction
-- 손세영(Son Se Young)
-- 백엔드 개발자를 목표로 하고 있습니다!
-
-## 🛠️ Tech Stack
-
-### Backend
-
-<div>
-  <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=E76F00">
-  <img src="https://img.shields.io/badge/SPRING_BOOT-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F">
-</div>
-
-### Database & Cloud
-
-<div>
-  <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1">
-  <img src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28">
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
-</div>
-
-### Frontend
-
-<div>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26">
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/REACT_NATIVE-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E">
-</div>
-
-### Embedded & Tools
-
-<div>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC">
-  <img src="https://img.shields.io/badge/ARDUINO-000000?style=for-the-badge&logo=arduino&logoColor=00979D">
-  <img src="https://img.shields.io/badge/RASPBERRY_PI-000000?style=for-the-badge&logo=raspberrypi&logoColor=A22846">
-  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FCC624">
-</div>
+<!-- 배너 문구와 색상은 assets/profile-banner.svg에서 수정할 수 있습니다. -->
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Son Se Young — Backend Developer">
+</p>
 
 <br>
 
-## 🚀 Projects
+<div align="center">
+  <strong>손세영 · Son SeYoung</strong><br>
+  <strong>Sungkyul University, Department of Computer Engineering 21</strong><br>
+  백엔드 개발자를 목표로 하고 있습니다!
+  <!-- 이곳에 학교 / 전공 / 소속을 추가해 주세요. -->
+  <br><br>
+  <a href="https://github.com/SonSeYoung02"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub 프로필"></a>
+  <a href="mailto:ssy020213@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+ 
+</div>
+
+<br>
+<br>
+
+<h2 align="center">🛠️Tech Stack</h2>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,python,js&perline=10" alt="Tech Stack" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,redis&perline=10" alt="Backend" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,docker,nginx&perline=10" alt="Infra">
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,githubactions,github&perline=10" alt="Version Control" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=10" alt="Hardware" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">🚀 Projects</h2>
 
 <div align="center">
 
-<table>
-  <tr>
-    <th>프로젝트</th>
-    <th>역할</th>
-    <th>설명</th>
-    <th>기간</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/SonSeYoung02/watchover-project.git"><strong>케어해줘</strong></a></td>
-    <td>프로젝트 팀장</td>
-    <td>AI기반 감정 통계 서비스</td>
-    <td>2026.03 ~ 2026.05</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/SWYP-dev/SWYP_BE.git"><strong>취합(Chwihap)</strong></a></td>
-    <td>백엔드</td>
-    <td>취업 공고 관리 서비스</td>
-    <td>2026.07 ~ 2026.08</td>
-  </tr>
-    <tr>
-    <td><a href="https://github.com/GYEOTE-project/gyeote-backend.git"><strong>곁에(Gyeote)</strong></a></td>
-    <td>백엔드</td>
-    <td>응급 상황 시 알람 서비스</td>
-    <td>2026.08 ~ 2026.09</td>
-  </tr>
-</table>
+| 프로젝트 | 역할 | 설명 | 기간 |
+| :---: | :---: | :---: | :---: |
+| [**케어해줘**](https://github.com/SonSeYoung02/watchover-project.git) | 프로젝트 팀장 | AI기반 감정 통계 서비스 | 2026.03 ~ 2026.05 |
+| [**취합(Chwihap)**](https://github.com/SWYP-dev/SWYP_BE.git) | 백엔드 | 취업 공고 관리 서비스 | 2026.07 ~ 2026.08 |
+| [**곁에(Gyeote)**](https://github.com/GYEOTE-project/gyeote-backend.git) | 백엔드 | 응급 상황 시 알람 서비스 | 2026.08 ~ 2026.09 |
 
 </div>
 
 <br>
 
-## ✨ GitHub Stats
+<h2 align="center">🏆 Activities & 🎖️ Certifications</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats-iota-tawny-98.vercel.app/api?username=SonSeYoung02&show_icons=true&theme=dracula&hide_border=true" height="180px">
-  <br>
-  <img src="https://github-readme-stats-iota-tawny-98.vercel.app/api/top-langs/?username=SonSeYoung02&layout=compact&theme=dracula&hide_border=true&exclude_repo=github-readme-stats" height="180px">
-</div>
+<!-- 자격증명과 취득 연월을 실제 내용으로 교체하세요. -->
+<p align="center">
+  🏆 <strong>2025학년도 1학기 교내 모바일프로그래밍 경진대회 3등</strong>
+</p>
+<!-- <p align="center">
+  🏆 <strong>수상이력 입력</strong> (YYYY.MM)
+</p> -->
+<!-- <p align="center">
+  🏅 <strong>자격증명 입력</strong> (YYYY.MM)
+</p> -->
 
 <br>
+<br>
+
+<!-- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <img src="https://github-readme-stats-iota-tawny-98.vercel.app/api/top-langs/?username=SonSeYoung02&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&layout=donut&langs_count=5&exclude_repo=github-readme-stats" height="195" alt="주로 사용하는 언어 비율 도넛 차트">
+  <img src="https://github-readme-stats-iota-tawny-98.vercel.app/api?username=SonSeYoung02&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&show_icons=true&ring_color=58a6ff&custom_title=Son%20Se%20Young%27s%20GitHub%20Stats" height="195" alt="손세영의 GitHub 활동 통계">
+</p>
