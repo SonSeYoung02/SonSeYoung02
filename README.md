@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th align="center">프로젝트</th>
