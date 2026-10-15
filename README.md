@@ -55,11 +55,36 @@
 
 <div align="center">
 
-| 프로젝트 | 역할 | 설명 | 기간 |
-| :---: | :---: | :---: | :---: |
-| [**케어해줘**](https://github.com/SonSeYoung02/watchover-project.git) | 프로젝트 팀장 | AI기반 감정 통계 서비스 | 2026.03 ~ 2026.05 |
-| [**취합(Chwihap)**](https://github.com/SWYP-dev/SWYP_BE.git) | 백엔드 | 취업 공고 관리 서비스 | 2026.07 ~ 2026.08 |
-| [**곁에(Gyeote)**](https://github.com/GYEOTE-project/gyeote-backend.git) | 백엔드 | 응급 상황 시 알람 서비스 | 2026.08 ~ 2026.09 |
+<table>
+  <thead>
+    <tr>
+      <th align="center">프로젝트</th>
+      <th align="center">역할</th>
+      <th align="center">설명</th>
+      <th align="center">기간</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/SonSeYoung02/watchover-project.git"><strong>케어해줘</strong></a></td>
+      <td align="center">프로젝트 팀장</td>
+      <td align="center">AI기반 감정 통계 서비스</td>
+      <td align="center">2026.03 ~ 2026.05</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/SWYP-dev/SWYP_BE.git"><strong>취합(Chwihap)</strong></a></td>
+      <td align="center">백엔드</td>
+      <td align="center">취업 공고 관리 서비스</td>
+      <td align="center">2026.07 ~ 2026.08</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/GYEOTE-project/gyeote-backend.git"><strong>곁에(Gyeote)</strong></a></td>
+      <td align="center">백엔드</td>
+      <td align="center">응급 상황 시 알람 서비스</td>
+      <td align="center">2026.08 ~ 2026.09</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
