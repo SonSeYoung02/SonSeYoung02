@@ -106,6 +106,13 @@
 </p> -->
 <br>
 <br>
+<h2 align="center">🧩 Problem Solving</h2>
+<p align="center">
+  <a href="https://github.com/SonSeYoung02/problem-solving"><img src="https://img.shields.io/badge/Algorithm-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="알고리즘 풀이 저장소"></a>
+</p>
+
+<br>
+
 <h2 align="center">🔥 GitHub State</h2>
 <p align="center">
   <img src="https://github-readme-stats-iota-tawny-98.vercel.app/api/top-langs/?username=SonSeYoung02&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&layout=donut&langs_count=5&exclude_repo=github-readme-stats" height="195" alt="주로 사용하는 언어 비율 도넛 차트">
