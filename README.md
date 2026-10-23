@@ -81,10 +81,10 @@
       <td align="center">2026.07 ~ 2026.08</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/GYEOTE-project/gyeote-backend"><strong>곁에(Gyeote)</strong></a></td>
+      <td align="center"><a href="https://github.com/GYEOTE-project/gyeote-backend"><strong>내 곁에(By-My-Side)</strong></a></td>
       <td align="center">백엔드</td>
       <td align="center">응급 상황 시 알람 서비스</td>
-      <td align="center">2026.08 ~ 2026.09</td>
+      <td align="center">2026.08 ~ 현재</td>
     </tr>
   </tbody>
 </table>
